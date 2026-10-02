@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<NetworkLink>
+		<name>4M~t b~ng ~~n hi~u_modified_21_1107819_1654455</name>
+		<Region>
+			<LatLonAltBox>
+				<north>10.16990661621094</north>
+				<south>10.16973495483398</south>
+				<east>104.0061950683594</east>
+				<west>104.0060234069824</west>
+				<minAltitude>0</minAltitude>
+				<maxAltitude>0</maxAltitude>
+			</LatLonAltBox>
+			<Lod>
+				<minLodPixels>128</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<Link>
+			<href>4M~t b~ng ~~n hi~u_modified_21_1107819_1654455.kml</href>
+		</Link>
+	</NetworkLink>
+	<GroundOverlay>
+		<name>4M~t b~ng ~~n hi~u_modified_20_553909_827227</name>
+		<drawOrder>20</drawOrder>
+		<Icon>
+			<href>files/4M~t b~ng ~~n hi~u_modified_20_553909_827227.png</href>
+		</Icon>
+		<LatLonBox>
+			<north>10.16990661621094</north>
+			<south>10.16956329345703</south>
+			<east>104.0061950683594</east>
+			<west>104.0058517456055</west>
+		</LatLonBox>
+	</GroundOverlay>
+</Folder>
+</kml>

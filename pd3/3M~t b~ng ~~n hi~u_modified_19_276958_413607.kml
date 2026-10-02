@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<NetworkLink>
+		<name>3M~t b~ng ~~n hi~u_modified_20_553916_827214</name>
+		<Region>
+			<LatLonAltBox>
+				<north>10.17230987548828</north>
+				<south>10.17196655273438</south>
+				<east>104.0017318725586</east>
+				<west>104.0013885498047</west>
+				<minAltitude>0</minAltitude>
+				<maxAltitude>0</maxAltitude>
+			</LatLonAltBox>
+			<Lod>
+				<minLodPixels>128</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<Link>
+			<href>3M~t b~ng ~~n hi~u_modified_20_553916_827214.kml</href>
+		</Link>
+	</NetworkLink>
+	<NetworkLink>
+		<name>3M~t b~ng ~~n hi~u_modified_20_553916_827215</name>
+		<Region>
+			<LatLonAltBox>
+				<north>10.17230987548828</north>
+				<south>10.17196655273438</south>
+				<east>104.0020751953125</east>
+				<west>104.0017318725586</west>
+				<minAltitude>0</minAltitude>
+				<maxAltitude>0</maxAltitude>
+			</LatLonAltBox>
+			<Lod>
+				<minLodPixels>128</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<Link>
+			<href>3M~t b~ng ~~n hi~u_modified_20_553916_827215.kml</href>
+		</Link>
+	</NetworkLink>
+	<NetworkLink>
+		<name>3M~t b~ng ~~n hi~u_modified_20_553917_827214</name>
+		<Region>
+			<LatLonAltBox>
+				<north>10.17265319824219</north>
+				<south>10.17230987548828</south>
+				<east>104.0017318725586</east>
+				<west>104.0013885498047</west>
+				<minAltitude>0</minAltitude>
+				<maxAltitude>0</maxAltitude>
+			</LatLonAltBox>
+			<Lod>
+				<minLodPixels>128</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<Link>
+			<href>3M~t b~ng ~~n hi~u_modified_20_553917_827214.kml</href>
+		</Link>
+	</NetworkLink>
+	<NetworkLink>
+		<name>3M~t b~ng ~~n hi~u_modified_20_553917_827215</name>
+		<Region>
+			<LatLonAltBox>
+				<north>10.17265319824219</north>
+				<south>10.17230987548828</south>
+				<east>104.0020751953125</east>
+				<west>104.0017318725586</west>
+				<minAltitude>0</minAltitude>
+				<maxAltitude>0</maxAltitude>
+			</LatLonAltBox>
+			<Lod>
+				<minLodPixels>128</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<Link>
+			<href>3M~t b~ng ~~n hi~u_modified_20_553917_827215.kml</href>
+		</Link>
+	</NetworkLink>
+	<GroundOverlay>
+		<name>3M~t b~ng ~~n hi~u_modified_19_276958_413607</name>
+		<drawOrder>19</drawOrder>
+		<Icon>
+			<href>files/3M~t b~ng ~~n hi~u_modified_19_276958_413607.png</href>
+		</Icon>
+		<LatLonBox>
+			<north>10.17265319824219</north>
+			<south>10.17196655273438</south>
+			<east>104.0020751953125</east>
+			<west>104.0013885498047</west>
+		</LatLonBox>
+	</GroundOverlay>
+</Folder>
+</kml>

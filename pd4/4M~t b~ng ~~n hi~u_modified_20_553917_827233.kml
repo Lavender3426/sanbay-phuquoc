@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<NetworkLink>
+		<name>4M~t b~ng ~~n hi~u_modified_21_1107834_1654467</name>
+		<Region>
+			<LatLonAltBox>
+				<north>10.17248153686523</north>
+				<south>10.17230987548828</south>
+				<east>104.0082550048828</east>
+				<west>104.0080833435059</west>
+				<minAltitude>0</minAltitude>
+				<maxAltitude>0</maxAltitude>
+			</LatLonAltBox>
+			<Lod>
+				<minLodPixels>128</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<Link>
+			<href>4M~t b~ng ~~n hi~u_modified_21_1107834_1654467.kml</href>
+		</Link>
+	</NetworkLink>
+	<NetworkLink>
+		<name>4M~t b~ng ~~n hi~u_modified_21_1107835_1654466</name>
+		<Region>
+			<LatLonAltBox>
+				<north>10.17265319824219</north>
+				<south>10.17248153686523</south>
+				<east>104.0080833435059</east>
+				<west>104.0079116821289</west>
+				<minAltitude>0</minAltitude>
+				<maxAltitude>0</maxAltitude>
+			</LatLonAltBox>
+			<Lod>
+				<minLodPixels>128</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<Link>
+			<href>4M~t b~ng ~~n hi~u_modified_21_1107835_1654466.kml</href>
+		</Link>
+	</NetworkLink>
+	<NetworkLink>
+		<name>4M~t b~ng ~~n hi~u_modified_21_1107835_1654467</name>
+		<Region>
+			<LatLonAltBox>
+				<north>10.17265319824219</north>
+				<south>10.17248153686523</south>
+				<east>104.0082550048828</east>
+				<west>104.0080833435059</west>
+				<minAltitude>0</minAltitude>
+				<maxAltitude>0</maxAltitude>
+			</LatLonAltBox>
+			<Lod>
+				<minLodPixels>128</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<Link>
+			<href>4M~t b~ng ~~n hi~u_modified_21_1107835_1654467.kml</href>
+		</Link>
+	</NetworkLink>
+	<GroundOverlay>
+		<name>4M~t b~ng ~~n hi~u_modified_20_553917_827233</name>
+		<drawOrder>20</drawOrder>
+		<Icon>
+			<href>files/4M~t b~ng ~~n hi~u_modified_20_553917_827233.png</href>
+		</Icon>
+		<LatLonBox>
+			<north>10.17265319824219</north>
+			<south>10.17230987548828</south>
+			<east>104.0082550048828</east>
+			<west>104.0079116821289</west>
+		</LatLonBox>
+	</GroundOverlay>
+</Folder>
+</kml>

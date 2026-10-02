@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<NetworkLink>
+		<name>2M~t b~ng ~~n hi~u_modified_21_1107839_1654344</name>
+		<Region>
+			<LatLonAltBox>
+				<north>10.17333984375</north>
+				<south>10.17316818237305</south>
+				<east>103.9871406555176</east>
+				<west>103.9869689941406</west>
+				<minAltitude>0</minAltitude>
+				<maxAltitude>0</maxAltitude>
+			</LatLonAltBox>
+			<Lod>
+				<minLodPixels>128</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<Link>
+			<href>2M~t b~ng ~~n hi~u_modified_21_1107839_1654344.kml</href>
+		</Link>
+	</NetworkLink>
+	<NetworkLink>
+		<name>2M~t b~ng ~~n hi~u_modified_21_1107839_1654345</name>
+		<Region>
+			<LatLonAltBox>
+				<north>10.17333984375</north>
+				<south>10.17316818237305</south>
+				<east>103.9873123168945</east>
+				<west>103.9871406555176</west>
+				<minAltitude>0</minAltitude>
+				<maxAltitude>0</maxAltitude>
+			</LatLonAltBox>
+			<Lod>
+				<minLodPixels>128</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<Link>
+			<href>2M~t b~ng ~~n hi~u_modified_21_1107839_1654345.kml</href>
+		</Link>
+	</NetworkLink>
+	<GroundOverlay>
+		<name>2M~t b~ng ~~n hi~u_modified_20_553919_827172</name>
+		<drawOrder>20</drawOrder>
+		<Icon>
+			<href>files/2M~t b~ng ~~n hi~u_modified_20_553919_827172.png</href>
+		</Icon>
+		<LatLonBox>
+			<north>10.17333984375</north>
+			<south>10.17299652099609</south>
+			<east>103.9873123168945</east>
+			<west>103.9869689941406</west>
+		</LatLonBox>
+	</GroundOverlay>
+</Folder>
+</kml>

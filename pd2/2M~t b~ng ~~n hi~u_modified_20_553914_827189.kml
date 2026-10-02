@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<NetworkLink>
+		<name>2M~t b~ng ~~n hi~u_modified_21_1107828_1654379</name>
+		<Region>
+			<LatLonAltBox>
+				<north>10.17145156860352</north>
+				<south>10.17127990722656</south>
+				<east>103.9931488037109</east>
+				<west>103.992977142334</west>
+				<minAltitude>0</minAltitude>
+				<maxAltitude>0</maxAltitude>
+			</LatLonAltBox>
+			<Lod>
+				<minLodPixels>128</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<Link>
+			<href>2M~t b~ng ~~n hi~u_modified_21_1107828_1654379.kml</href>
+		</Link>
+	</NetworkLink>
+	<NetworkLink>
+		<name>2M~t b~ng ~~n hi~u_modified_21_1107829_1654378</name>
+		<Region>
+			<LatLonAltBox>
+				<north>10.17162322998047</north>
+				<south>10.17145156860352</south>
+				<east>103.992977142334</east>
+				<west>103.992805480957</west>
+				<minAltitude>0</minAltitude>
+				<maxAltitude>0</maxAltitude>
+			</LatLonAltBox>
+			<Lod>
+				<minLodPixels>128</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<Link>
+			<href>2M~t b~ng ~~n hi~u_modified_21_1107829_1654378.kml</href>
+		</Link>
+	</NetworkLink>
+	<NetworkLink>
+		<name>2M~t b~ng ~~n hi~u_modified_21_1107829_1654379</name>
+		<Region>
+			<LatLonAltBox>
+				<north>10.17162322998047</north>
+				<south>10.17145156860352</south>
+				<east>103.9931488037109</east>
+				<west>103.992977142334</west>
+				<minAltitude>0</minAltitude>
+				<maxAltitude>0</maxAltitude>
+			</LatLonAltBox>
+			<Lod>
+				<minLodPixels>128</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<Link>
+			<href>2M~t b~ng ~~n hi~u_modified_21_1107829_1654379.kml</href>
+		</Link>
+	</NetworkLink>
+	<GroundOverlay>
+		<name>2M~t b~ng ~~n hi~u_modified_20_553914_827189</name>
+		<drawOrder>20</drawOrder>
+		<Icon>
+			<href>files/2M~t b~ng ~~n hi~u_modified_20_553914_827189.png</href>
+		</Icon>
+		<LatLonBox>
+			<north>10.17162322998047</north>
+			<south>10.17127990722656</south>
+			<east>103.9931488037109</east>
+			<west>103.992805480957</west>
+		</LatLonBox>
+	</GroundOverlay>
+</Folder>
+</kml>

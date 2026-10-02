@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>4M~t b~ng ~~n hi~u_modified_21_1107824_1654437</name>
+	<drawOrder>21</drawOrder>
+	<Icon>
+		<href>files/4M~t b~ng ~~n hi~u_modified_21_1107824_1654437.png</href>
+	</Icon>
+	<LatLonBox>
+		<north>10.1707649230957</north>
+		<south>10.17059326171875</south>
+		<east>104.0031051635742</east>
+		<west>104.0029335021973</west>
+	</LatLonBox>
+</GroundOverlay>
+</kml>
