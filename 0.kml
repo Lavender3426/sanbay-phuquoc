@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<NetworkLink>
+	<name>1Mặt bằng đèn hiệu_modified Root</name>
+	<LookAt>
+		<longitude>103.9817153052747</longitude>
+		<latitude>10.17332782014955</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>1100</range>
+	</LookAt>
+	<Style id="inline">
+		<ListStyle>
+			<listItemType>checkHideChildren</listItemType>
+			<bgColor>00ffffff</bgColor>
+			<maxSnippetLines>2</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Link>
+		<href>1M~t b~ng ~~n hi~u_modified_13_4327_6462.kml</href>
+	</Link>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.7.1327"></atom:link>
+</NetworkLink>
+</kml>
