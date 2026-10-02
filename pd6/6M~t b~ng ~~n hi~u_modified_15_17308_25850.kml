@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<NetworkLink>
+		<name>6M~t b~ng ~~n hi~u_modified_16_34617_51700</name>
+		<Region>
+			<LatLonAltBox>
+				<north>10.162353515625</north>
+				<south>10.1568603515625</south>
+				<east>104.0020751953125</east>
+				<west>103.99658203125</west>
+				<minAltitude>0</minAltitude>
+				<maxAltitude>0</maxAltitude>
+			</LatLonAltBox>
+			<Lod>
+				<minLodPixels>128</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<Link>
+			<href>6M~t b~ng ~~n hi~u_modified_16_34617_51700.kml</href>
+		</Link>
+	</NetworkLink>
+	<GroundOverlay>
+		<name>6M~t b~ng ~~n hi~u_modified_15_17308_25850</name>
+		<drawOrder>15</drawOrder>
+		<Icon>
+			<href>files/6M~t b~ng ~~n hi~u_modified_15_17308_25850.png</href>
+		</Icon>
+		<LatLonBox>
+			<north>10.162353515625</north>
+			<south>10.1513671875</south>
+			<east>104.007568359375</east>
+			<west>103.99658203125</west>
+		</LatLonBox>
+	</GroundOverlay>
+</Folder>
+</kml>

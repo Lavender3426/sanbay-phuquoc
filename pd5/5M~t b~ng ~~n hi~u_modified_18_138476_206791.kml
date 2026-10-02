@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<NetworkLink>
+		<name>5M~t b~ng ~~n hi~u_modified_19_276952_413582</name>
+		<Region>
+			<LatLonAltBox>
+				<north>10.16853332519531</north>
+				<south>10.1678466796875</south>
+				<east>103.9849090576172</east>
+				<west>103.9842224121094</west>
+				<minAltitude>0</minAltitude>
+				<maxAltitude>0</maxAltitude>
+			</LatLonAltBox>
+			<Lod>
+				<minLodPixels>128</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<Link>
+			<href>5M~t b~ng ~~n hi~u_modified_19_276952_413582.kml</href>
+		</Link>
+	</NetworkLink>
+	<NetworkLink>
+		<name>5M~t b~ng ~~n hi~u_modified_19_276952_413583</name>
+		<Region>
+			<LatLonAltBox>
+				<north>10.16853332519531</north>
+				<south>10.1678466796875</south>
+				<east>103.985595703125</east>
+				<west>103.9849090576172</west>
+				<minAltitude>0</minAltitude>
+				<maxAltitude>0</maxAltitude>
+			</LatLonAltBox>
+			<Lod>
+				<minLodPixels>128</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<Link>
+			<href>5M~t b~ng ~~n hi~u_modified_19_276952_413583.kml</href>
+		</Link>
+	</NetworkLink>
+	<NetworkLink>
+		<name>5M~t b~ng ~~n hi~u_modified_19_276953_413582</name>
+		<Region>
+			<LatLonAltBox>
+				<north>10.16921997070313</north>
+				<south>10.16853332519531</south>
+				<east>103.9849090576172</east>
+				<west>103.9842224121094</west>
+				<minAltitude>0</minAltitude>
+				<maxAltitude>0</maxAltitude>
+			</LatLonAltBox>
+			<Lod>
+				<minLodPixels>128</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<Link>
+			<href>5M~t b~ng ~~n hi~u_modified_19_276953_413582.kml</href>
+		</Link>
+	</NetworkLink>
+	<NetworkLink>
+		<name>5M~t b~ng ~~n hi~u_modified_19_276953_413583</name>
+		<Region>
+			<LatLonAltBox>
+				<north>10.16921997070313</north>
+				<south>10.16853332519531</south>
+				<east>103.985595703125</east>
+				<west>103.9849090576172</west>
+				<minAltitude>0</minAltitude>
+				<maxAltitude>0</maxAltitude>
+			</LatLonAltBox>
+			<Lod>
+				<minLodPixels>128</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<Link>
+			<href>5M~t b~ng ~~n hi~u_modified_19_276953_413583.kml</href>
+		</Link>
+	</NetworkLink>
+	<GroundOverlay>
+		<name>5M~t b~ng ~~n hi~u_modified_18_138476_206791</name>
+		<drawOrder>18</drawOrder>
+		<Icon>
+			<href>files/5M~t b~ng ~~n hi~u_modified_18_138476_206791.png</href>
+		</Icon>
+		<LatLonBox>
+			<north>10.16921997070313</north>
+			<south>10.1678466796875</south>
+			<east>103.985595703125</east>
+			<west>103.9842224121094</west>
+		</LatLonBox>
+	</GroundOverlay>
+</Folder>
+</kml>
